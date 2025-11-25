@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 import java.util.Scanner;
 
-public class Trial {
+public class SwitchCase {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number from 1 to 7:");
