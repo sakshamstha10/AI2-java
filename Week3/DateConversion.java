@@ -22,8 +22,8 @@ public class DateConversion
        int Days = RD%30;
        
        System.out.println("Year: " + Years);
-        System.out.println("Months: " + Months);
-        System.out.println("Days: " + Days);
+       System.out.println("Months: " + Months);
+       System.out.println("Days: " + Days);
        
        
    }
