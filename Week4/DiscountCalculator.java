@@ -36,7 +36,7 @@ public class DiscountCalculator
             
         }
         float sp = mp - (mp* discountPercent /100 );
-        System.out.println("Selling Price = " +sp);
+        System.out.println("Selling Price = " +sp); 
         
         
     }
