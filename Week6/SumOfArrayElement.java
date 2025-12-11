@@ -1,0 +1,19 @@
+package Week6;
+
+
+
+public class SumOfArrayElement
+{
+    public static void main(String[] args)
+    {
+        int[]arr={10,20,44,55,22}; //declaration, construction & initialization in the same line
+        
+        int sum =0;
+        
+        for(int i=0; i<arr.length;i++)
+        {
+            sum= sum+arr[i];
+        }
+        System.out.println(sum);
+    }
+}
