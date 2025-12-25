@@ -5,5 +5,6 @@ class Rectangle {
 
     // Method to calculate area
     double area() {
-        return length        return length * breadth;
+        return length * breadth;
     }
+}
